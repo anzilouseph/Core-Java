@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array list all opertaions/Array list all opertaions.iml" filepath="$PROJECT_DIR$/Array list all opertaions/Array list all opertaions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/core java workouts.iml" filepath="$PROJECT_DIR$/.idea/core java workouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/k th largets elemnt/k th largets elemnt.iml" filepath="$PROJECT_DIR$/k th largets elemnt/k th largets elemnt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/largest in a window/largest in a window.iml" filepath="$PROJECT_DIR$/largest in a window/largest in a window.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smallest in an aray/smallest in an aray.iml" filepath="$PROJECT_DIR$/smallest in an aray/smallest in an aray.iml" />
+    </modules>
+  </component>
+</project>
